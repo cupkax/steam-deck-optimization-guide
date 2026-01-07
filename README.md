@@ -176,7 +176,7 @@ ssh deck@steamdeck.local
 
 To install `Decky`:
 1. Switch your Steam Deck to `Desktop Mode`
-2. Open `Firefox` and go to [https://decky.xyz](https://decky.xyz)
+2. Open `Firefox` and go to [https://github.com/SteamDeckHomebrew/decky-loader#-installation](https://github.com/SteamDeckHomebrew/decky-loader#-installation)
 3. Download the `.desktop` file into your Download folder
 4. Double-click the `Decky Installer` file
 5. Enter your password when prompted
